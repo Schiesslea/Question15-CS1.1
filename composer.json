@@ -1,0 +1,11 @@
+    {
+    "name": "schiesslea/question15-cs1.1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Andy Schiessle",
+            "email": "andyschiessle@gmail.com"
+        }
+    ],
+    "require": {}
+}
